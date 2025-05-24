@@ -1,3 +1,3 @@
 
-say:
+say-hello:
 	echo "Hello, World"
